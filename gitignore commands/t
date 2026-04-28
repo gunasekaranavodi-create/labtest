@@ -1,0 +1,4 @@
+git rm -r --cached .
+git add .
+git commit -m "chore: remove node_modules and update gitignore"
+git push origin main
